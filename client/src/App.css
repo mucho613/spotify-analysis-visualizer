@@ -1,0 +1,30 @@
+.App {
+  font-size: 4rem;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+.label {
+  display: block;
+  font-size: 2rem;
+}
+
+.track-info {
+  font-family: 'Kiwi Maru', serif;
+  margin: 0 0 2rem;
+}
+
+.track-name {
+  font-size: 3rem;
+}
+
+.track-artists {
+  font-size: 2rem;
+}
+
+.beat-indicator {
+  height: 1rem;
+  background-color: rgb(112, 167, 216);
+}
